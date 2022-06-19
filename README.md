@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vidit-Bhatwadekar
-- 👀 I’m interested in Data Science and Software
+- 👀 I’m interested in Data Science and Software Engineering
 - 🌱 I’m currently learning Data Science at UC Berkeley
 
 
