@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Vidit-Bhatwadekar
 - 👀 I’m interested in Data Science and Software Engineering
-- 🌱 I’m currently learning Data Science at UC Berkeley
+- 🌱 I’m currently studying Data Science at UC Berkeley
+
+Find out more about my professional experience at my CV/Portfolio Website: https://tinyurl.com/viditbhatwadekar
 
 
 <!---
