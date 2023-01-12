@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Software Engineering
 - 🌱 I’m currently studying Data Science at UC Berkeley
 
-Find out more about my professional experience on my CV/Portfolio Website: https://viditbhatwadekar.herokuapp.com/
+Find out more about my professional experience on my CV/Portfolio Website: tinyurl.com/viditbhatwadekar
 
 
 <!---
